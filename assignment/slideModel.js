@@ -41,4 +41,4 @@ var slide5 = {
 /** Here's the simplest implementation I could come up with for
  * representing a deck of slides (nothing exotic is necessary!)
  */
-var slideDeck = [slideExample1, slideExample2, slideExample3];
+var slideDeck = [slide1, slide2, slide3,slide4,slide5];
