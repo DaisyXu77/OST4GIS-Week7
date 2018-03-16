@@ -31,4 +31,14 @@ p.main {
   position: absolute;
   background-color: #fff;
   z-index: 2000;
+  top:450px;
+  left:50px;
+}
+
+.color {
+  display: inline-block;
+  width: 20px;
+  height: 10px;
+  bottom: 0;
+  top: 450px;
 }
